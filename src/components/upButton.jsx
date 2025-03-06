@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { motion } from "framer-motion";
-import upBtn from "../assets/upBtn.svg";
+import upBtn from "../assets/UpBtn.svg";
 
 const ScrollToTopButton = () => {
   const [isVisible, setIsVisible] = useState(false);
