@@ -22,7 +22,7 @@ const Footer = () => {
                         <a href="https://www.linkedin.com/in/brown-melanie" target="_blank" rel="noopener noreferrer" className="lg:hover:text-[#FF4900] transition-all">linkedin</a>
                     </li>
                     <li>
-                        <a href="https://www.instagram.com/5493487532846" target="_blank" rel="noopener noreferrer" className="lg:hover:text-[#FF4900] transition-all">instagram</a>
+                        <a href="https://www.instagram.com/melniebrown" target="_blank" rel="noopener noreferrer" className="lg:hover:text-[#FF4900] transition-all">instagram</a>
                     </li>
                 </ul>
                 <p>© 2025</p>

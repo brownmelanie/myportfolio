@@ -6,42 +6,42 @@ const projects = [
     title: "Chocölatttear",
     category: "Web design & development",
     year: "2025",
-    video: "src/assets/videos/chocolattear-preview.mp4",
+    video: "/chocolattear-preview.mp4",
     link: "/work-in-progress"
   },
   {
     title: "Modo Berlin",
     category: "E-Commerce",
     year: "2025",
-    video: "src/assets/videos/modoberlin-preview.mp4",
+    video: "/modoberlin-preview.mp4",
     link: "/work-in-progress"
   },
   {
     title: "Security Button",
     category: "App development",
     year: "2024",
-    video: "src/assets/videos/securitybutton-preview.mp4",
+    video: "/securitybutton-preview.mp4",
     link: "/work-in-progress"
   },
   {
     title: "Natics",
     category: "E-Commerce",
     year: "2024",
-    video: "src/assets/videos/natics-preview.mp4",
+    video: "/natics-preview.mp4",
     link: "/work-in-progress"
   },
   {
     title: "Guzman Nacich SAIC",
     category: "Web design & development",
     year: "2024",
-    video: "src/assets/videos/guzmannacich-preview.mp4",
+    video: "/guzmannacich-preview.mp4",
     link: "/work-in-progress"
   },
   {
     title: "Cima Integral",
     category: "Web development",
     year: "2024",
-    video: "src/assets/videos/cimaintegral-preview.mp4",
+    video: "/cimaintegral-preview.mp4",
     link: "/work-in-progress"
   }
 ];
