@@ -14,35 +14,35 @@ const projects = [
     category: "E-Commerce",
     year: "2025",
     video: "/modoberlin-preview.mp4",
-    link: "/work-in-progress"
+    link: "https://modoberlin.com"
   },
   {
     title: "Security Button",
     category: "App development",
     year: "2024",
     video: "/securitybutton-preview.mp4",
-    link: "/work-in-progress"
+    link: "https://play.google.com/store/apps/details?id=com.postadigital.securitybutton"
   },
   {
     title: "Natics",
     category: "E-Commerce",
     year: "2024",
     video: "/natics-preview.mp4",
-    link: "/work-in-progress"
+    link: "https://trynatics.com"
   },
   {
     title: "Guzman Nacich SAIC",
     category: "Web design & development",
     year: "2024",
     video: "/guzmannacich-preview.mp4",
-    link: "/work-in-progress"
+    link: "https://www.guzman-nacich.com.ar"
   },
   {
     title: "Cima Integral",
     category: "Web development",
     year: "2024",
     video: "/cimaintegral-preview.mp4",
-    link: "/work-in-progress"
+    link: "http://cimaintegral.com.ar"
   }
 ];
 
