@@ -100,6 +100,7 @@ const About = () => {
                             ))}
                         </ul>
                         <video
+                            preload="auto"
                             autoPlay
                             loop
                             muted
