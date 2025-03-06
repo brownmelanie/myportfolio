@@ -1,5 +1,15 @@
 @import "tailwindcss";
 
+@theme {
+  --font-primary: 'Inter', sans-serif;
+}
+
+@media (min-width: 769px) {
+  * {
+    cursor: none;
+  }
+}
+
 #root {
-  max-width: 1280px;
+  overflow: hidden;
 }
