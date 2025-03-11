@@ -35,7 +35,7 @@ const About = () => {
             <div className="relative h-[300vh] w-screen bg-[#111111] text-white font-primary sm:h-[330vh] md:h-[400vh] lg:h-[200vh] xl:h-[200vh]">
                 <div className="sticky top-0 min-h-screen flex flex-col justify-between pt-35 pb-10 z-10 lg:flex-row lg:items-end lg:pb-10">
                     <div className="px-5 sm:px-10 lg:pl-10 lg:pr-0 lg:w-1/2">
-                        <p className=" text-[#FF4900] font-light tracking-tighter pl-1 sm:text-xl md:text-2xl lg:text-xl xl:text-2xl">I'm Melanie Brown</p>
+                        <p className=" text-[#FF4900] font-light tracking-tighter pl-1 sm:text-xl md:text-2xl lg:text-xl xl:text-2xl">I'm Melanie Brown, a</p>
                         <h1 className="tracking-[-0.1em] font-semibold text-5xl sm:text-6xl md:text-7xl xl:text-8xl">Web designer <span className="text-[#FF4900]">&</span> developer</h1>
                     </div>
                     <div className="tracking-tighter font-light px-5 sm:text-xl sm:px-10 lg:w-1/2 lg:px-14 lg:text-lg xl:text-xl">
@@ -45,7 +45,10 @@ const About = () => {
 
                 <div className="sticky top-0 min-h-screen bg-white text-black z-20 lg:flex xl:px-10">
                     <div className="flex flex-col justify-between min-h-screen pt-36 pb-20 px-5 sm:px-10 lg:w-1/2 lg:pt-32 lg:h-screen lg:pb-14 xl:pt-36">
-                        <p className="font-light tracking-tighter sm:text-xl">With a passion for seamless digital experiences, I blend clean code with intuitive design. From dynamic front-end development in React, Tailwind & Framer Motion to custom solutions in Shopify, WordPress & Wix, I create tailored web experiences that are both visually striking and highly functional.</p>
+                        <p className="font-light tracking-tighter sm:text-xl">I’m a web designer and developer specializing in creating stunning, high-converting websites. Whether it’s an e-commerce store on Shopify, Wix, or WooCommerce, or a sleek single-page or multipage business site, I bring ideas to life with clean design and smooth functionality.
+                        <br/>
+                        <br/>
+                        I focus on crafting user-friendly, responsive, and performance-optimized websites that not only look great but also help businesses grow.</p>
                         <div className="flex justify-between">
                             <Link to="/portfolio">
                                 <button className="border py-1 px-8 font-light text-sm sm:text-lg
@@ -57,7 +60,7 @@ const About = () => {
                                 </button>
                             </Link>
                             <a 
-                                href="src/assets/BrownMelanie-CV.pdf" 
+                                href="/BrownMelanie-CV.pdf" 
                                 target="_blank" 
                                 rel="noopener noreferrer" 
                                 download
