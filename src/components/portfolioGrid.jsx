@@ -3,6 +3,13 @@ import arrow from "../assets/ArrowUp.svg"
 
 const projects = [
   {
+    title: "Modo Berlin",
+    category: "E-Commerce design & development",
+    year: "2025",
+    video: "/modoberlin-preview.mp4",
+    link: "https://modoberlin.com"
+  },
+  {
     title: "Chocölatttear",
     category: "Web design & development",
     year: "2025",
@@ -10,11 +17,11 @@ const projects = [
     link: "/work-in-progress"
   },
   {
-    title: "Modo Berlin",
-    category: "E-Commerce",
-    year: "2025",
-    video: "/modoberlin-preview.mp4",
-    link: "https://modoberlin.com"
+    title: "Natics",
+    category: "Shopify E-Commerce",
+    year: "2024",
+    video: "/natics-preview.mp4",
+    link: "https://trynatics.com"
   },
   {
     title: "Security Button",
@@ -22,13 +29,6 @@ const projects = [
     year: "2024",
     video: "/securitybutton-preview.mp4",
     link: "https://play.google.com/store/apps/details?id=com.postadigital.securitybutton"
-  },
-  {
-    title: "Natics",
-    category: "E-Commerce",
-    year: "2024",
-    video: "/natics-preview.mp4",
-    link: "https://trynatics.com"
   },
   {
     title: "Guzman Nacich SAIC",
